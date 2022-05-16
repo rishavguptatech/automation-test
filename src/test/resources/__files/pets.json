@@ -1,0 +1,25 @@
+[
+  {
+    "id": 9223372036854021000,
+    "category": {
+      "id": -22178237,
+      "name": "aliquip nisi enim sint Lorem"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "non cillum voluptate sit",
+      "non cillum esse"
+    ],
+    "tags": [
+      {
+        "id": -20930507,
+        "name": "ci"
+      },
+      {
+        "id": -45484531,
+        "name": "dolor in reprehenderit"
+      }
+    ],
+    "status": "available"
+  }
+]

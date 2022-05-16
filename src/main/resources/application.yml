@@ -1,0 +1,4 @@
+config:
+  petstore:
+    baseUrl: https://petstore.swagger.io
+    findByStatusURL: /v2/pet/findByStatus

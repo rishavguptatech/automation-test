@@ -1,0 +1,4 @@
+config:
+  petstore:
+    baseUrl: http://localhost:8089
+    findByStatusURL: /v2/pet/findByStatus
